@@ -2,6 +2,12 @@
 
 This repo records my pratice of leetcode questions. The script will download leetcode problem to local for using you prefer code editor in writing or debugging your code.
 
+
+
+![leetcodedownload_final](README.assets/leetcodedownload_final.gif)
+
+
+
 ## Getting Started
 
 This project contains a make file script written in python that helps to download and create local file directly from leetcode.com

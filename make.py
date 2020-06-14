@@ -147,7 +147,7 @@ class Question_Parser:
                 language_dropdown = '//*[@id="app"]/div/div[3]/div/div/div[3]/div/div[1]/div/div[1]/div[1]/div'
                 select_arrow = self.driver.find_element_by_class_name('ant-select-arrow')
                 time.sleep(1)
-                python3_option = '/html/body/div[7]/div/div/div/ul/li[4]'
+                python3_option = '/html/body/div[6]/div/div/div/ul/li[4]'
                 select_arrow.click()
                 self.driver.find_element_by_xpath(python3_option).click()
                 time.sleep(1)
