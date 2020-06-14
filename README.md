@@ -1,6 +1,6 @@
 # Leetcode Download Script
 
-This repo records my pratice of leetcode questions. The script will download leetcode problem to local for using you prefer code editor in writing or debugging your code.
+This is a script using browser automation to download code description and  starter code. The script will download leetcode problem to local for using you prefer code editor in writing or debugging your code.
 
 
 
